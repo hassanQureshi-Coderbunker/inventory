@@ -18,16 +18,22 @@ const ItemDetail = ({item}) => {
 
     console.log(matchedItem);
 
+  if (matchedItem) {
+    return (
+        <div>
+          {
+            Object.keys(matchedItem).map(function(key) {
+            return <p>{key}: {matchedItem[key]}</p>;
+          })
+        }
+        </div>
 
-  return (
-    <div>
-      {Object.keys(matchedItem).map(function(key) {
-        return <p>{key}: {matchedItem[key]}</p>;
-      })}
-    </div>
 
+    )
+  } else {
+    return <div>Not found</div>
+  }
 
-  )
 };
 
 
