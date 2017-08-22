@@ -1,0 +1,22 @@
+{
+  "name": "inventory-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "excel": "^0.1.7",
+    "json-loader": "^0.5.7",
+    "lodash": "^4.17.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-qr-reader": "^1.2.1",
+    "react-scripts": "1.0.11",
+    "xlsx": "^0.11.3",
+    "xlsx-to-json": "^0.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

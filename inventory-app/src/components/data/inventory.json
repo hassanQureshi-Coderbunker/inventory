@@ -1,0 +1,508 @@
+[
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "light",
+    "location": "next to cupboard",
+    "models": "9W 2700k energy saving",
+    "TODO": "DONE",
+    "uuid": "80BE15E2-8221-4A77-B639-14438B487682"
+  },
+  {
+    "floor": "402",
+    "room": "open space",
+    "fixture": "light",
+    "location": "next to cupboard",
+    "models": "9W 2700k energy saving",
+    "TODO": "DONE",
+    "Back up ink ": "Emma"
+  },
+  {
+    "floor": "402",
+    "fixture": "printer",
+    "location": "openspace",
+    "models": "brother MFC J430W (WIFI)",
+    "qty": "1",
+    "details": "print+copy+scan+FAX ",
+    "TODO": "I cannot scan(some computers can )",
+    "Back up ink ": "√"
+  },
+  {
+    "floor": "402",
+    "room": "open space",
+    "fixture": "round light",
+    "models": "32W",
+    "qty": "1"
+  },
+  {
+    "floor": "402",
+    "room": "open space",
+    "fixture": "paper shredder",
+    "location": "next to office manager",
+    "qty": "1"
+  },
+  {
+    "floor": "701",
+    "room": "private room",
+    "fixture": "light ",
+    "location": "one light is broken",
+    "models": "22W",
+    "qty": "3",
+    "TODO": "TO DO"
+  },
+  {
+    "floor": "701",
+    "room": "meeting room",
+    "fixture": "light cover",
+    "models": "吸顶式节能荧光灯器具 功率：1KMA*22W",
+    "TODO": "TO DO"
+  },
+  {
+    "floor": "101",
+    "room": "open space",
+    "fixture": "wooden table",
+    "models": "size ?",
+    "qty": "1"
+  },
+  {
+    "floor": "101",
+    "room": "kitchen ",
+    "fixture": "big round glass table",
+    "models": "size ?",
+    "qty": "1"
+  },
+  {
+    "floor": "101",
+    "room": "open space",
+    "fixture": "smal glass round table",
+    "models": "78x70"
+  },
+  {
+    "floor": "101",
+    "room": "open space",
+    "fixture": "big desk",
+    "models": "122x244x76",
+    "details": "this is standard desk for Agora"
+  },
+  {
+    "floor": "101",
+    "room": "open space",
+    "fixture": "small desk",
+    "models": "122x122x76"
+  },
+  {
+    "floor": "101",
+    "room": "open space",
+    "fixture": "sofa",
+    "models": "L:140;80",
+    "qty": "2"
+  },
+  {
+    "floor": "101",
+    "room": "open space",
+    "fixture": "whiteboard",
+    "models": "85x145x160"
+  },
+  {
+    "floor": "101",
+    "room": "open space",
+    "fixture": "sofa small table",
+    "models": "35x175x50"
+  },
+  {
+    "floor": "101",
+    "room": "*",
+    "fixture": "rental contract",
+    "models": "expire 2016-11-26",
+    "details": "will renew"
+  },
+  {
+    "floor": "701",
+    "room": "*",
+    "fixture": "rental contract",
+    "details": "will renew"
+  },
+  {
+    "floor": "402",
+    "room": "*",
+    "fixture": "rental contract",
+    "models": "expire 2017-10-06",
+    "details": "cannot renew"
+  },
+  {
+    "floor": "bunker",
+    "room": "*",
+    "fixture": "rental contract",
+    "details": "will renew"
+  },
+  {
+    "floor": "701",
+    "room": "open space",
+    "fixture": "screen",
+    "models": "Samsung E2420L",
+    "qty": "1",
+    "details": "1 VGA/VGA cable ( no power adapter)",
+    "TODO": "buy DVI, power adapter"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "monitor",
+    "models": "DELL E228HVf",
+    "qty": "1",
+    "details": "1 VGA port, 1 DVI-D port, 1 Video port",
+    "Back up ink ": "has USB Entry",
+    "serial": "CNOFFW757287263U",
+    "uuid": "6460B1B2-BF57-4C24-BB6F-F4CA2E23F3E5"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "monitor",
+    "models": "DELL U2311Hb",
+    "qty": "1",
+    "details": "1 VGA/VGA port",
+    "TODO": "buy DVI",
+    "Back up ink ": "has USB Entry",
+    "serial": "N/A",
+    "uuid": "68BF3270-8564-4DBE-94B6-D5EE8DD9FCC9"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "monitor",
+    "models": "DELL P2416Db",
+    "qty": "1",
+    "details": "1 VGA/VGA port, HDMI, DVI-D",
+    "TODO": "buy HMDI+Thunderbolt",
+    "Back up ink ": "has USB Entry ",
+    "serial": "CN0NDY737426163A0NCLUA00",
+    "uuid": "68BF3270-8564-4DBE-94B6-D5EE8DD9FCC9"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "monitor",
+    "models": "DELL P2416Db",
+    "qty": "1",
+    "details": "1 VGA/VGA port, HDMI, DVI-D",
+    "TODO": "buy HMDI+Thunderbolt",
+    "Back up ink ": "has USB Entry ",
+    "serial": "CN0NDY73742615BC1U9U",
+    "owner": "Ricky Ng-Adam",
+    "uuid": "074DB275-82C4-43BD-9D81-C7FB3AFA92D7"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "monitor",
+    "models": "DELL 2408WFPb",
+    "qty": "1",
+    "details": "1 VGA/VGA port, 1 DVI-D port",
+    "TODO": "buy HMDI+Thunderbolt",
+    "Back up ink ": "has USB Entry ",
+    "serial": "CN0NN7927426186T09LS",
+    "uuid": "5A4E5578-A802-40B6-9E34-66B5DBD7FB52"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "monitor",
+    "models": "DELL 2007WFPb",
+    "qty": "1",
+    "details": "1 VGA port, 1 DVI-D port, 1 Video port",
+    "TODO": "buy DVI-D to Thunderbolt & DVI-D to HDMI",
+    "Back up ink ": "has USB Entry ",
+    "serial": "CN0NF4094466336CN1FYL",
+    "uuid": "32C44B94-BCC8-46D3-81EC-06EEB6E5C318"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "monitor",
+    "models": "DELL 2007WFPb",
+    "qty": "1",
+    "details": "1 VGA port, 1 DVI-D port, 1 Video port",
+    "TODO": "buy DVI-D to Thunderbolt & DVI-D to HDMI",
+    "Back up ink ": "has USB Entry ",
+    "serial": "N/A",
+    "uuid": "N/A"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "monitor",
+    "models": "Samsung 943NWPLUS",
+    "qty": "1",
+    "details": "1 DVI-D port",
+    "TODO": "buy DVI-D to Thunderbolt & VGA to HDMI",
+    "serial": "MY19H9NZ301332B",
+    "uuid": "52814E84-FB1F-43EE-9835-3F8FEE546352"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "monitor",
+    "models": "Samsung P2450H",
+    "qty": "1",
+    "details": "1 HDMI, 1 VGA port",
+    "serial": "N/A",
+    "uuid": "N/A"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "monitor",
+    "models": "ACER X223W",
+    "qty": "1",
+    "details": "1 VGA, 1 HDMI port",
+    "serial": "ETLAZ09047807001156310",
+    "uuid": "5709252E-6A43-4BBE-B9AD-49DC16A4F227"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "monitor",
+    "models": "Samsung E2420L",
+    "qty": "1",
+    "details": "1 VGA port, 1 DVI-D port",
+    "serial": "CL24HVQB900594K",
+    "uuid": "0CFD329E-D29E-4899-B9A9-5EF12B268991"
+  },
+  {
+    "floor": "bunker",
+    "room": "small classroom",
+    "fixture": "TV",
+    "models": "LG 47LK460-CC",
+    "TODO": "buy 2xHMDI+MAC"
+  },
+  {
+    "floor": "bunker",
+    "room": "coderbunker office",
+    "fixture": "videoprojector",
+    "models": "EPSON EB-C30X",
+    "TODO": "buy HMDI+MAC",
+    "serial": "PSLF380329L"
+  },
+  {
+    "floor": "bunker",
+    "room": "bar",
+    "fixture": "fridge"
+  },
+  {
+    "floor": "bunker",
+    "room": "bar",
+    "fixture": "oven"
+  },
+  {
+    "floor": "701",
+    "room": "small office",
+    "fixture": "TV",
+    "models": "Rowa 42H510",
+    "qty": "1",
+    "TODO": "buy 2xHMDI+MAC"
+  },
+  {
+    "floor": "701",
+    "room": "open space",
+    "fixture": "chairs",
+    "qty": "8"
+  },
+  {
+    "floor": "701",
+    "room": "Private office-6",
+    "fixture": "chairs",
+    "qty": "5"
+  },
+  {
+    "floor": "701",
+    "room": "Private office-4",
+    "fixture": "chairs",
+    "qty": "3"
+  },
+  {
+    "floor": "101",
+    "room": "open space",
+    "fixture": "chairs",
+    "qty": "8"
+  },
+  {
+    "floor": "101",
+    "room": "Private office-6",
+    "fixture": "chairs",
+    "qty": "6"
+  },
+  {
+    "floor": "101",
+    "room": "Private office-4",
+    "fixture": "chairs",
+    "qty": "3"
+  },
+  {
+    "floor": "101",
+    "room": "meeting room",
+    "fixture": "chairs",
+    "qty": "0"
+  },
+  {
+    "floor": "402",
+    "room": "open space",
+    "fixture": "chairs",
+    "qty": "8"
+  },
+  {
+    "floor": "402",
+    "room": "Private office-6",
+    "fixture": "chairs",
+    "qty": "6"
+  },
+  {
+    "floor": "402",
+    "room": "Private office-4",
+    "fixture": "chairs",
+    "qty": "0"
+  },
+  {
+    "floor": "402",
+    "room": "meeting room",
+    "fixture": "chairs",
+    "qty": "3"
+  },
+  {
+    "floor": "bunker",
+    "room": "classroom",
+    "fixture": "chairs",
+    "qty": "7"
+  },
+  {
+    "floor": "bunker",
+    "room": "serve room",
+    "fixture": "chairs",
+    "qty": "3"
+  },
+  {
+    "floor": "101",
+    "fixture": "printer",
+    "location": "open space",
+    "models": "HP 3548    (WIFI)",
+    "qty": "1",
+    "details": "wifi+print+copy+scan",
+    "TODO": "I cannot scan (most computers cannot )",
+    "Back up ink ": "×"
+  },
+  {
+    "floor": "701",
+    "fixture": "printer",
+    "location": "open space",
+    "models": "HP ENVY 4502",
+    "qty": "1",
+    "details": "wifi+print+copy+scan",
+    "TODO": "WINDOWS cannot connect via wifi",
+    "Back up ink ": "×"
+  },
+  {
+    "floor": "701",
+    "fixture": "printer",
+    "location": "open space",
+    "models": "Samsung ML 2161",
+    "qty": "1",
+    "details": "print",
+    "Back up ink ": "√"
+  },
+  {
+    "floor": "bunker",
+    "fixture": "printer",
+    "location": "classroom ",
+    "models": "Samsung CLP 366W(LASER )",
+    "qty": "1",
+    "details": "wifi+print+copy",
+    "TODO": "I cannot connect via wifi. call support about the red light",
+    "Back up ink ": "×"
+  },
+  {
+    "floor": "bunker",
+    "fixture": "printer",
+    "location": "classroom ",
+    "models": "HP JET P1102W (LASER)",
+    "qty": "1",
+    "details": "wifi+print",
+    "Back up ink ": "×",
+    "serial": "CNF4D25239",
+    "uuid": "7297FC41-7512-43B4-8514-C14ECD343946"
+  },
+  {
+    "floor": "bunker",
+    "room": "big classroom",
+    "fixture": "printer",
+    "location": "classroom ",
+    "models": "Canon MP288",
+    "qty": "1",
+    "details": "print+copy+scan",
+    "serial": "QC34887DB0101",
+    "uuid": "6BBDC48F-03C0-4B3E-91CB-430AE3B21A1C"
+  },
+  {
+    "floor": "bunker",
+    "fixture": "printer",
+    "location": "classroom ",
+    "models": "EPSON  OFFICE 600F",
+    "qty": "1",
+    "details": "print+copy+scan+FAX ",
+    "TODO": "I cannot connect via cable",
+    "Back up ink ": "×",
+    "serial": "KPTY065286",
+    "uuid": "8B037633-C6F9-4EA8-9E7F-89388EEEB4DA"
+  },
+  {
+    "floor": "503",
+    "room": "big room",
+    "fixture": "bed",
+    "location": "bedroom ",
+    "qty": "1",
+    "details": "measurement...."
+  },
+  {
+    "floor": "trash",
+    "fixture": "printer",
+    "location": "open space",
+    "models": "hp officejet pro 8500A",
+    "qty": "1"
+  },
+  {
+    "floor": "trash",
+    "fixture": "printer",
+    "location": "open space",
+    "models": "hp officejet pro 8500A(WIFI)"
+  },
+  {
+    "floor": "trash",
+    "fixture": "printer",
+    "location": "?",
+    "models": "Canon MFC J4300",
+    "qty": "1"
+  },
+  {
+    "floor": "bunker",
+    "fixture": "printer",
+    "location": "inventory room",
+    "models": "aisino sk-860(WIFI)",
+    "qty": "1",
+    "Back up ink ": "."
+  },
+  {
+    "floor": "bunker",
+    "fixture": "printer",
+    "location": "inventory room",
+    "models": "SAMSUNG ML2161",
+    "qty": "1"
+  },
+  {
+    "floor": "101",
+    "room": "meeting room ",
+    "fixture": "monitor ",
+    "location": "meeting room ",
+    "models": "LG 47LK460-CC",
+    "qty": "1",
+    "details": "1 HDMI,1 DVI,"
+  }
+]
