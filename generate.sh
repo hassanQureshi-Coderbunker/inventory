@@ -11,7 +11,7 @@ do
 	echo "$SHORTID $ID" >> index.txt
 	mkdir -p full/
 	mkdir -p short/
-	qrencode -s 10 http://url.coderbunker.com/`uuidgen` -o full/$ID.png
+	qrencode -s 10 http://url.coderbunker.com/$ID -o full/$ID.png
 	convert -pointsize 60 full/$ID.png label:"$SHORTID" -gravity Center -append short/$SHORTID.png
 done
 montage -mode concatenate short/*.png -tile 4x6 page.png
